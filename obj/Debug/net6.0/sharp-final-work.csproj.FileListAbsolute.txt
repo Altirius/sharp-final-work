@@ -1,0 +1,15 @@
+C:\Users\misha\Desktop\С\sharp-final-work\bin\Debug\net6.0\sharp-final-work.exe
+C:\Users\misha\Desktop\С\sharp-final-work\bin\Debug\net6.0\sharp-final-work.deps.json
+C:\Users\misha\Desktop\С\sharp-final-work\bin\Debug\net6.0\sharp-final-work.runtimeconfig.json
+C:\Users\misha\Desktop\С\sharp-final-work\bin\Debug\net6.0\sharp-final-work.dll
+C:\Users\misha\Desktop\С\sharp-final-work\bin\Debug\net6.0\sharp-final-work.pdb
+C:\Users\misha\Desktop\С\sharp-final-work\obj\Debug\net6.0\sharp-final-work.csproj.AssemblyReference.cache
+C:\Users\misha\Desktop\С\sharp-final-work\obj\Debug\net6.0\sharp-final-work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\Desktop\С\sharp-final-work\obj\Debug\net6.0\sharp-final-work.AssemblyInfoInputs.cache
+C:\Users\misha\Desktop\С\sharp-final-work\obj\Debug\net6.0\sharp-final-work.AssemblyInfo.cs
+C:\Users\misha\Desktop\С\sharp-final-work\obj\Debug\net6.0\sharp-final-work.csproj.CoreCompileInputs.cache
+C:\Users\misha\Desktop\С\sharp-final-work\obj\Debug\net6.0\sharp-final-work.dll
+C:\Users\misha\Desktop\С\sharp-final-work\obj\Debug\net6.0\refint\sharp-final-work.dll
+C:\Users\misha\Desktop\С\sharp-final-work\obj\Debug\net6.0\sharp-final-work.pdb
+C:\Users\misha\Desktop\С\sharp-final-work\obj\Debug\net6.0\sharp-final-work.genruntimeconfig.cache
+C:\Users\misha\Desktop\С\sharp-final-work\obj\Debug\net6.0\ref\sharp-final-work.dll
